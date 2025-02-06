@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+asyncio
+joblib
+matplotlib
+seaborn
+sklearn
